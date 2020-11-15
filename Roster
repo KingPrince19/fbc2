@@ -3976,7 +3976,6 @@ PLAYER,PUR,DL,Semisi Fakasiieiki,So,72,285,2,,
 PLAYER,PUR,RB,D.J. Knox,Sr,68,220,4,,
 PLAYER,PUR,S,Kadin Smith,Fr,70,195,2,,
 PLAYER,PUR,LB,Markus Bailey,Jr,71,235,5,,
-PLAYER,RUT,QB,King Prince,Fr,78,225,100,100,100,100,100,100,100
 PLAYER,RUT,CB,Tre Avery,So,69,200,2,,
 PLAYER,RUT,OL,Tariq Cole,Sr,73,295,4,,
 PLAYER,RUT,DL,Willington Previlon,Jr,72,285,4,,
@@ -5772,5 +5771,6 @@ PLAYER,USF,K,Trent Schneider,So,67,180,4,,
 PLAYER,USF,LB,Jeffery Farrar,Sr,71,235,4,,
 PLAYER,USF,OL,Donovan Jennings,Fr,73,295,3,,
 PLAYER,USF,K,Jake Vivonetto,Sr,67,180,4,,
+PLAYER,SAM,QB,King Prince,Fr,78,225,100,100,100,100,100,100,100
 
 END_FILE,,,,,,,,,
